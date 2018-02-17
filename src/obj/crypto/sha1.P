@@ -1,0 +1,4 @@
+obj/crypto/sha1.o: crypto/sha1.cpp /root/noderx/src/crypto/sha1.h \
+ /root/noderx/src/crypto/common.h
+crypto/sha1.cpp /root/noderx/src/crypto/sha1.h :
+ /root/noderx/src/crypto/common.h :

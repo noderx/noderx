@@ -1,0 +1,4 @@
+obj/crypto/hmac_sha512.o: crypto/hmac_sha512.cpp \
+ /root/noderx/src/crypto/hmac_sha512.h /root/noderx/src/crypto/sha512.h
+crypto/hmac_sha512.cpp :
+ /root/noderx/src/crypto/hmac_sha512.h /root/noderx/src/crypto/sha512.h :
